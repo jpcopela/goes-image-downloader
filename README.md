@@ -26,5 +26,5 @@ Because GNOME is weird and uses different background settings for the dark and l
 
 You will need to change the paths to the folder where you install these files. I have them in a Projects folder under my user profile.
 
-Also, it is a good idea to go into the shell script and change the resolution of the image to match the resolution of your screen. I am running this on a 2017 Macbook Air, so my screen resolution is 1440x1900, but yours will likely be different.
+Also, it is a good idea to go into the shell script and change the resolution of the image to match the resolution of your screen. I am running this on a 2017 Macbook Air, so my screen resolution is 1440x900, but yours will likely be different.
 
