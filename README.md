@@ -16,6 +16,8 @@ This script was written for use on Ubuntu 22.04 using GSettings and GNOME.
 The only non-default dependencies are `wget` and `imagemagick` for downloading the images and resizing them, respectively. You may also need to install `dconf` for `gsettings` to work properly.
 
 # Notes:
+Because GNOME is weird and uses different background settings for the dark and light themes, this project assumes you are using the light theme. I will work on getting the dark theme working in the future.
+
 You will need to change the paths to the folder where you install these files. I have them in a Projects folder under my user profile.
 
 You will also need to grant the `publish-images.sh` file execution permissions by running
