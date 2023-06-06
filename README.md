@@ -1,9 +1,9 @@
 # goes-image-downloader
-Bash script to download latest GOES-16 full disk images and use them for an animated GNOME wallpaper
+Shell script to download latest GOES-16 full disk images and use them for an animated GNOME wallpaper
 
 ![alt text](https://github.com/jackcop/goes-image-downloader/blob/main/goes-wallpaper.gif?raw=true)
 
-This bash script downloads the latest false color full disk GOES-16 images from the URL https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/latest.jpg , resizes them to fit your screen, and makes them the background wallpaper so that you have an up-to-date image of the Earth for your background viewing pleasure!
+This shell script downloads the latest false color full disk GOES-16 images from the URL https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/latest.jpg , resizes them to fit your screen, and makes them the background wallpaper so that you have an up-to-date image of the Earth for your background viewing pleasure!
 
 Crontab is used to run the script every 10 minutes, and the following line should be added to your user Cron file by running the command:
 
