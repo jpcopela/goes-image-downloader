@@ -1,5 +1,5 @@
 # goes-image-downloader
-Shell script to download latest GOES-16 full disk images and use them for an animated GNOME wallpaper
+Bash script to download latest GOES-16/18 full disk images and use them for an animated GNOME wallpaper
 
 ![alt text](https://github.com/jackcop/goes-image-downloader/blob/main/goes-wallpaper.gif?raw=true)
 
